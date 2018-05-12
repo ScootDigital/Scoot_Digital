@@ -481,11 +481,19 @@ footer {
     border-top: 1px solid #4e4e4e;
 }
 
+/* Footer link */
 footer a {
     color: white;
 }
+
+/* Footer link hover */
 footer a:hover {
     color: lightgray;
+}
+
+/* Footer copyright tag */
+footer p {
+	color: white;
 }
 
 /*===================================
