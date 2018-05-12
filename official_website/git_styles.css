@@ -354,6 +354,7 @@ Our Methods
     padding: 10%;
     background: url(https://i.imgur.com/WhBhEQM.jpg);
     background-size: cover;
+    border-top: 5px solid silver;
 }
 
 /* Our Methods paragraph */
@@ -409,6 +410,7 @@ Portfolio
     background-image: url(https://i.imgur.com/yFnLNyM.jpg);
     background-size: cover;
     background-attachment: fixed;
+    border-top: 5px solid silver;
     background-position: 0% 0%;
 }
 
@@ -420,6 +422,7 @@ Contact Form
     background: url(https://i.imgur.com/jRe7m1P.jpg);
     background-size: cover;
     background-position-x: 50%;
+    border-top: 5px solid silver;
 }
 
 .contactForm h2 {
@@ -478,7 +481,7 @@ footer {
     background: #191919;
     padding: 2%;
     text-align: center;
-    border-top: 1px solid #4e4e4e;
+    border-top: 5px solid #4e4e4e;
 }
 
 /* Footer link */
