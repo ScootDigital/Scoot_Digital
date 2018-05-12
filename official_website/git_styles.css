@@ -493,7 +493,8 @@ footer a:hover {
 
 /* Footer copyright tag */
 footer p {
-	color: white;
+    color: #9a9a9a;
+    font-size: 75%;
 }
 
 /*===================================
