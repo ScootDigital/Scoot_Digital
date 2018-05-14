@@ -41,7 +41,7 @@ body {
 }
 
 h1 {
-    font-size: 250%;
+    font-size: 250% !important;
     color: #ffffff;
     font-family: monospace;
     text-shadow: 3px 2px 7px #333;
