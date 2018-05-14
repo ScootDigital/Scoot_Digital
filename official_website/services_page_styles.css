@@ -46,7 +46,7 @@ Services descriptions
     padding: 4% 20%;
 }
 
-/* H3 */
+/* Header 3 */
 .services_desc h3 {
     font-size: 210%;
 	padding: 0 0 8px 0;
@@ -65,6 +65,10 @@ Services descriptions
 }
 
 @media only screen and (max-width: 680px) {
+    .services_desc {
+    padding: 4% 5%;
+}
+
     .services_desc p {
         text-align: initial;
     }
