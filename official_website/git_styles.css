@@ -367,7 +367,7 @@ Our Methods
     text-shadow: 1px 1px 1px #333;
 }
 
-.leftBlock, .rightBlock {
+.rightBlock {
     width: 50%;
 }
 
