@@ -99,6 +99,11 @@ div#main {
     width: 100%;
 }
 
+/* Top login options */
+p.cp-logout {
+    padding: 0 10px !important;
+}
+
 /*=================================
 Miscellaneous styles
 =================================*/
