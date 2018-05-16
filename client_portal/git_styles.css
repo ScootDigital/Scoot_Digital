@@ -89,7 +89,10 @@ div#main {
     padding: 0;
 }
 
-
+/* Contents within the dashboard */
+.main_content {
+    padding: 0 12%;
+}
 
 /* Google Docs statistics iFrame */
 .statsGdoc {
