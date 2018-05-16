@@ -86,7 +86,10 @@ Client Portal Dashboard
 =================================*/
 div#main {
     background: white;
+    padding: 0;
 }
+
+
 
 /* Google Docs statistics iFrame */
 .statsGdoc {
