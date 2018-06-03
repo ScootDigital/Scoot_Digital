@@ -104,6 +104,11 @@ p.cp-logout {
     padding: 0 10px !important;
 }
 
+/* Container for statistics */
+.stats_container {
+    display: flex;
+}
+
 /*=================================
 Miscellaneous styles
 =================================*/
