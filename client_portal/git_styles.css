@@ -116,3 +116,8 @@ Miscellaneous styles
 .header-callout {
     display: none;
 }
+
+/* Hiding the search function on the top right */
+.module.widget-handle.search-widget-handle {
+    display: none;
+}
