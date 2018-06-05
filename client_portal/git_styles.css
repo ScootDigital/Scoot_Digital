@@ -120,8 +120,3 @@ Miscellaneous styles
 .module.widget-handle.search-widget-handle {
     display: none;
 }
-
-/* Removal of overwriting white background for login page*/
-div#main {
-    background: none;
-}
