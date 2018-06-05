@@ -35,7 +35,6 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, table, blockquote, input, textarea {
     margin-bottom: 0;
 }
 
-
 /*=================================
 Front Page Login Module
 =================================*/
@@ -51,8 +50,6 @@ Front Page Login Module
     box-shadow: none;
     padding: 280px 25px 0px 25px;
 }
-
-/*  */
 
 /* Username and password fields */
 input.cleanlogin-field-username, input.cleanlogin-field-password {
