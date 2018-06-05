@@ -52,6 +52,8 @@ Front Page Login Module
     padding: 280px 25px 0px 25px;
 }
 
+/*  */
+
 /* Username and password fields */
 input.cleanlogin-field-username, input.cleanlogin-field-password {
 	margin: 0;
