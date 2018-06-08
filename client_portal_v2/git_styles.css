@@ -1,7 +1,38 @@
 /*=================================
 Universal Elements
 =================================*/
+/* Website container */
+body {
+    color: #333;
+}
+
+/* Menu logo styling */
+.scoot_digital_logo {
+    width: 138px;
+}
+
 /* The main article container */
 div#primary {
     width: 100%;
+}
+
+/* Scoot Portal background */
+section.content-area {
+    padding: 96px 0;
+    position: relative;
+    overflow: hidden;
+    background: url(https://i.imgur.com/easdQoX.jpg);
+    background-size: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+/*=================================
+Miscellaneous styles
+=================================*/
+/* Scoot Portal Login Page Header Removal https://colorlib.com/wp/forums/topic/remove-header-callout-from-all-pages-but-not-portfolio/ */
+.header-callout {
+    display: none;
 }
