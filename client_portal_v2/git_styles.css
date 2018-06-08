@@ -14,9 +14,10 @@ body {
 /* The main article container */
 div#primary {
     width: 100%;
+    background: #ffffffb3;
 }
 
-/* Scoot Portal background */
+/* General background */
 section.content-area {
     padding: 96px 0;
     position: relative;
