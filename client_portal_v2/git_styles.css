@@ -81,3 +81,8 @@ Miscellaneous styles
 div#comments {
     display: none;
 }
+
+/* Removal of the search function; top right */
+.module.widget-handle.search-widget-handle {
+    display: none;
+}
