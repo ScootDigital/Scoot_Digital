@@ -44,6 +44,12 @@ hr {
     margin: 0;
 }
 
+/*=================================
+Statistics Container
+=================================*/
+.stats_container iframe {
+    width: 100%;
+}
 
 /*=================================
 Miscellaneous styles
