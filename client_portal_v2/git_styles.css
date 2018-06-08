@@ -1,3 +1,7 @@
 /*=================================
 Universal Elements
 =================================*/
+/* The main article container */
+div#primary {
+    width: 100%;
+}
