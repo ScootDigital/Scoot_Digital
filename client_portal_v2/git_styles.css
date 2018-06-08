@@ -76,3 +76,8 @@ Miscellaneous styles
 .shapely-related-posts {
     display: none;
 }
+
+/* Removal of commenting abilities */
+div#comments {
+    display: none;
+}
