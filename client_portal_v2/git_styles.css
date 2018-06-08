@@ -47,9 +47,17 @@ hr {
 /*=================================
 Statistics Container
 =================================*/
+/* Statistics container */
+.stats_container {
+    display: flex;
+}
+
+/* iFrames within statistics container*/
 .stats_container iframe {
     width: 100%;
 }
+
+
 
 /*=================================
 Miscellaneous styles
