@@ -28,7 +28,10 @@ section.content-area {
     background-position: center;
 }
 
-
+/* Main header */
+header.entry-header {
+    text-align:  center;
+}
 
 /*=================================
 Miscellaneous styles
