@@ -34,6 +34,11 @@ header.entry-header {
     margin-top: 10px;
 }
 
+/* Subheading */
+h4 {
+    margin: 0;
+}
+
 /*=================================
 Miscellaneous styles
 =================================*/
