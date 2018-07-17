@@ -48,8 +48,9 @@ hr {
 Login Page
 =================================*/
 .login_module {
-    
-}
+    display: flex;
+    justify-content: center;
+ }
 
 
 /*=================================
