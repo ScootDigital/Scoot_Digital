@@ -99,6 +99,20 @@ ul.post-meta {
     display: none;
 }
 
+/* Removal of the author bio for posts */
+.author-bio {
+    display: none;
+}
+
+/* Removal of the related posts */
+.shapely-related-posts {
+    display: none;
+}
+
+/* Removal of commenting abilities for posts */
+div#comments {
+    display: none;
+}
 
 /* Removal of forced width constraints */
 .col-md-8 {
