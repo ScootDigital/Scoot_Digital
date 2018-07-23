@@ -50,13 +50,18 @@ div#primary, .row {
 article#post-501 {
     padding: 15px;
     max-width: 300px;
-    background: #ffffffb3;
 }
 
 
 /*=================================
 Statistics Container
 =================================*/
+article#post-561 {
+        background: #ffffffb3;
+        max-width: 1046px !important;
+        padding: 20px;
+}
+
 /* Statistics container */
 .stats_container {
     display: flex;
