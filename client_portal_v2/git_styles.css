@@ -104,10 +104,6 @@ Miscellaneous styles
     display: none;
 }
 
-/* Removal of commenting abilities */
-div#comments {
-    display: none;
-}
 
 /* Removal of forced width constraints */
 .col-md-8 {
