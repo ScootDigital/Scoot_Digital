@@ -41,14 +41,16 @@ hr {
 /*=================================
 Login Page
 =================================*/
-/* The main article container */
-#main {
-    max-width: 300px;
-    background: #ffffffb3;
+div#primary, .row {
+    display: flex;
+    justify-content: center;
 }
 
-div#primary {
-    width: 100%;
+/* The main article container */
+article#post-501 {
+    padding: 15px;
+    max-width: 300px;
+    background: #ffffffb3;
 }
 
 
