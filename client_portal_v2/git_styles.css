@@ -11,12 +11,6 @@ body {
     width: 138px;
 }
 
-/* The main article container */
-div#primary {
-    width: 100%;
-    background: #ffffffb3;
-}
-
 /* General background */
 section.content-area {
     padding: 96px 0;
@@ -47,6 +41,15 @@ hr {
 /*=================================
 Login Page
 =================================*/
+/* The main article container */
+#main {
+    max-width: 300px;
+    background: #ffffffb3;
+}
+
+div#primary {
+    width: 100%;
+}
 
 
 /*=================================
