@@ -52,6 +52,11 @@ article#post-501 {
     max-width: 300px;
 }
 
+/* Submit button */
+p.login-submit {
+    text-align:  center;
+}
+
 /*=================================
 Statistics Container
 =================================*/
