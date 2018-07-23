@@ -94,6 +94,11 @@ div#comments {
     display: none;
 }
 
+/* Removal of forced width constraints */
+.col-md-8 {
+    width: 100%;
+}
+
 /* Removal of the search function; top right */
 .module.widget-handle.search-widget-handle {
     display: none;
