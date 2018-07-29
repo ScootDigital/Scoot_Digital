@@ -48,19 +48,23 @@ div#primary, .row {
 
 /* Login title */
 h1.entry-title {
-    visibility:  hidden;
+    visibility: hidden;
     padding: 0 0 40px 0;
 }
 
 /* The main article container */
 article#post-501 {
-    padding: 15px;
-    max-width: 300px;
+    background-image: url("https://i.imgur.com/gUFTdp2.png"), linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0.4));
+    background-position: 0 7%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    max-width: 1046px !important;
+    padding: 20px;
 }
 
 /* Log in button */
 p.login-submit {
-    text-align:  center;
+    text-align: center;
 }
 
 /* All login inputs */
@@ -81,13 +85,10 @@ p.login-submit {
 /*=================================
 Statistics Container
 =================================*/
-#primary article {
-    background-image: url("https://i.imgur.com/gUFTdp2.png"), linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0.4));
-    background-position: 0 7%;
-    background-size: contain;
-    background-repeat: no-repeat;
-    max-width: 1046px !important;
-    padding: 20px;
+/* Article background */
+article {
+        padding: 15px;
+    background: linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0.4));
 }
 
 /* Statistics container */
