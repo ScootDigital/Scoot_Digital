@@ -87,7 +87,7 @@ Statistics Container
 =================================*/
 /* Article background */
 article {
-        padding: 15px;
+    padding: 15px;
     background: linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0.4));
 }
 
@@ -99,6 +99,12 @@ article {
 /* iFrames within statistics container*/
 .stats_container iframe {
     width: 100%;
+}
+
+@media only screen and (max-width: 991px) {
+    .stats_container {
+        display: initial;
+    }
 }
 
 /*=================================
