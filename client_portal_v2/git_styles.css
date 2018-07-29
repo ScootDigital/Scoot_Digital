@@ -76,7 +76,10 @@ p.login-submit {
 Statistics Container
 =================================*/
 #primary article {
-    background: #ffffffb3;
+    background-image: url("https://i.imgur.com/gUFTdp2.png"), linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0.4));
+    background-position: 0 7%;
+    background-size: contain;
+    background-repeat: no-repeat;
     max-width: 1046px !important;
     padding: 20px;
 }
