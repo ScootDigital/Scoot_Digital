@@ -46,6 +46,12 @@ div#primary, .row {
     justify-content: center;
 }
 
+/* Login title */
+h1.entry-title {
+    visibility:  hidden;
+    padding: 0 0 40px 0;
+}
+
 /* The main article container */
 article#post-501 {
     padding: 15px;
