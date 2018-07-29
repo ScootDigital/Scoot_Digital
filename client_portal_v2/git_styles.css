@@ -57,7 +57,7 @@ p.login-submit {
     text-align:  center;
 }
 
-/* All login input */
+/* All login inputs */
 .wppb-form-field input, .wppb-form-field input[type="text"], .wppb-form-field input[type="number"], .wppb-form-field input[type="email"], .wppb-form-field input[type="url"], .wppb-form-field input[type="password"], .wppb-form-field input[type="search"], .wppb-form-field select, .wppb-form-field textarea, .wppb-checkboxes, .wppb-radios, #wppb-login-wrap .login-username input, #wppb-login-wrap .login-password input {
     width: 100%;
 }
@@ -65,6 +65,11 @@ p.login-submit {
 /* All login label fields */
 .wppb-form-field label, #wppb-login-wrap .login-username label, #wppb-login-wrap .login-password label {
     width: 100%;
+}
+
+/* Password field */
+.login-password input#user_pass {
+    height: 50px;
 }
 
 /*=================================
